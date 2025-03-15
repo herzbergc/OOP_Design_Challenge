@@ -1,0 +1,4 @@
+C:\Users\caela\Documents\GitHub\OOP_Design_Challenge\OOP\obj\Debug\net8.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caela\Documents\GitHub\OOP_Design_Challenge\OOP\obj\Debug\net8.0\OOP.AssemblyInfoInputs.cache
+C:\Users\caela\Documents\GitHub\OOP_Design_Challenge\OOP\obj\Debug\net8.0\OOP.AssemblyInfo.cs
+C:\Users\caela\Documents\GitHub\OOP_Design_Challenge\OOP\obj\Debug\net8.0\OOP.csproj.CoreCompileInputs.cache
